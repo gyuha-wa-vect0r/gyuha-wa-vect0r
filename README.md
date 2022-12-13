@@ -1,4 +1,5 @@
-### 👋 Hi there! Welcome to my GitHub!
+## 👋 Hi there! Welcome to my GitHub!
+### 📝 Contects
 <p>
   <a href="https://gyuha-wa-vect0r.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=GitHub&logoColor=white"/></a>
   <a href="https://www.linkedin.com/in/cowkite/" target="_blank"><img src="https://img.shields.io/badge/Velog-20C997?style=flat-square&logo=Velog&logoColor=white"/></a>
@@ -17,3 +18,5 @@
   <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=Processingfoundation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
+
+#### 2022.09.26 ~ 2024.06.25, I'm serving in the Republic of Korea Air Force.
