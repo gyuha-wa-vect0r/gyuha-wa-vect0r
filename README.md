@@ -1,4 +1,6 @@
 ## 👋 Hi there! Welcome to Gyuha-wa-Vect0r's GitHub!
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2Fgyuha-wa-vect0r&count_bg=%2379C83D&title_bg=%23555555&icon=&icon_color=%23E7E7E7&title=Visitors&edge_flat=true)](https://hits.seeyoufarm.com)
+
 ### 📝 Contects
 <p>
   <a href="https://gyuha-wa-vect0r.github.io" target="_blank"><img src="https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=GitHub&logoColor=white"/></a>
@@ -19,6 +21,9 @@
   <img src="https://img.shields.io/badge/Processing-006699?style=flat-square&logo=Processingfoundation&logoColor=white"/>
   <img src="https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=Arduino&logoColor=white"/>
 </p>
+
+#### BOJ Tier
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongsunicomputer)](https://solved.ac/kongsunicomputer/)
 
 #### 2022.09.26 ~ 2024.06.25, I'm serving in the Republic of Korea Air Force.
 
