@@ -23,7 +23,7 @@
 </p>
 
 #### BOJ Tier
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=kongsunicomputer)](https://solved.ac/kongsunicomputer/)
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuha_wa_vect0r)](https://solved.ac/gyuha_wa_vect0r/)
 
 #### 2022.09.26 ~ 2024.06.25, I'm serving in the Republic of Korea Air Force.
 
