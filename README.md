@@ -21,3 +21,5 @@
 </p>
 
 #### 2022.09.26 ~ 2024.06.25, I'm serving in the Republic of Korea Air Force.
+
+#### I hope you have a wonderful day! 🙂
