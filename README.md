@@ -16,7 +16,7 @@ $ python
 
 >>> exit()
 ```
-Connect with me at : <a href="mailto:leejune30@chungbuk.ac.kr"> leejune30@chungbuk.ac.kr </a>
+<P>Connect with me at : <a href="mailto:leejune30@chungbuk.ac.kr"> leejune30@chungbuk.ac.kr </a></P>
   
 
 ### 📝 Contects
