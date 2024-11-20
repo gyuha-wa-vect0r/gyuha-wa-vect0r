@@ -11,7 +11,7 @@ $ python
     "About": "Hi, I'm GYUHA LEE 👋",
     "I'm": "Into Deep Learning and Back-End Developer",
     "Learning": "Computer Vision",
-    "Looking to ": "Labs that delves into the field of CV",
+    "Looking for ": "Labs that delves into the field of CV",
 }
 
 >>> exit()
