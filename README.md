@@ -44,5 +44,6 @@ $ python
 
 #### BOJ Tier
 [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=gyuha_wa_vect0r)](https://solved.ac/gyuha_wa_vect0r/)
+(솔직히 백준 풀 시간 없어요...)
 
 #### I hope you have a wonderful day! 🙂
